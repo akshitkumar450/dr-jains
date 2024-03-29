@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800;900&display=swap");
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  /* for hiding the right ribbon on why choose us page */
+  overflow-x: hidden;
+}
+
+/* ol,
+ul {
+  list-style: initial;
+  margin: 0;
+  padding: 0;
+} */
+
+.slick-arrow{
+  /* background-color: blue !important; */
+  display: none !important;
+}
